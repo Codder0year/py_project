@@ -1,2 +1,2 @@
-print(2+2)
-print(3-2)
+def add(a, b):
+    return a + b
